@@ -1,1 +1,2 @@
 print('lulu')
+print('hehe')
